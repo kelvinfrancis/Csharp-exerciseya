@@ -1,0 +1,14 @@
+C:\Users\kmoquete\source\repos\15-EstructuraDeDatosTipoVector\15-EstructuraDeDatosTipoVector\bin\Debug\net8.0\15-EstructuraDeDatosTipoVector.exe
+C:\Users\kmoquete\source\repos\15-EstructuraDeDatosTipoVector\15-EstructuraDeDatosTipoVector\bin\Debug\net8.0\15-EstructuraDeDatosTipoVector.deps.json
+C:\Users\kmoquete\source\repos\15-EstructuraDeDatosTipoVector\15-EstructuraDeDatosTipoVector\bin\Debug\net8.0\15-EstructuraDeDatosTipoVector.runtimeconfig.json
+C:\Users\kmoquete\source\repos\15-EstructuraDeDatosTipoVector\15-EstructuraDeDatosTipoVector\bin\Debug\net8.0\15-EstructuraDeDatosTipoVector.dll
+C:\Users\kmoquete\source\repos\15-EstructuraDeDatosTipoVector\15-EstructuraDeDatosTipoVector\bin\Debug\net8.0\15-EstructuraDeDatosTipoVector.pdb
+C:\Users\kmoquete\source\repos\15-EstructuraDeDatosTipoVector\15-EstructuraDeDatosTipoVector\obj\Debug\net8.0\15-EstructuraDeDatosTipoVector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmoquete\source\repos\15-EstructuraDeDatosTipoVector\15-EstructuraDeDatosTipoVector\obj\Debug\net8.0\15-EstructuraDeDatosTipoVector.AssemblyInfoInputs.cache
+C:\Users\kmoquete\source\repos\15-EstructuraDeDatosTipoVector\15-EstructuraDeDatosTipoVector\obj\Debug\net8.0\15-EstructuraDeDatosTipoVector.AssemblyInfo.cs
+C:\Users\kmoquete\source\repos\15-EstructuraDeDatosTipoVector\15-EstructuraDeDatosTipoVector\obj\Debug\net8.0\15-EstructuraDeDatosTipoVector.csproj.CoreCompileInputs.cache
+C:\Users\kmoquete\source\repos\15-EstructuraDeDatosTipoVector\15-EstructuraDeDatosTipoVector\obj\Debug\net8.0\15-EstructuraDeDatosTipoVector.dll
+C:\Users\kmoquete\source\repos\15-EstructuraDeDatosTipoVector\15-EstructuraDeDatosTipoVector\obj\Debug\net8.0\refint\15-EstructuraDeDatosTipoVector.dll
+C:\Users\kmoquete\source\repos\15-EstructuraDeDatosTipoVector\15-EstructuraDeDatosTipoVector\obj\Debug\net8.0\15-EstructuraDeDatosTipoVector.pdb
+C:\Users\kmoquete\source\repos\15-EstructuraDeDatosTipoVector\15-EstructuraDeDatosTipoVector\obj\Debug\net8.0\15-EstructuraDeDatosTipoVector.genruntimeconfig.cache
+C:\Users\kmoquete\source\repos\15-EstructuraDeDatosTipoVector\15-EstructuraDeDatosTipoVector\obj\Debug\net8.0\ref\15-EstructuraDeDatosTipoVector.dll
