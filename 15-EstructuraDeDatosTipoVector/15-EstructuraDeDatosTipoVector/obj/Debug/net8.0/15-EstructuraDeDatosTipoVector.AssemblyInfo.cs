@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("15-EstructuraDeDatosTipoVector")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f0b510367358f4d03980e3ee3f7e35109e943c8")]
 [assembly: System.Reflection.AssemblyProductAttribute("15-EstructuraDeDatosTipoVector")]
 [assembly: System.Reflection.AssemblyTitleAttribute("15-EstructuraDeDatosTipoVector")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

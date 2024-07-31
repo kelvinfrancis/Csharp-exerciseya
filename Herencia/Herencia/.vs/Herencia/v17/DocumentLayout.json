@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kmoquete\\repos\\Csharp-exerciseya\\Herencia\\Herencia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D73BDBD-AEC1-4EF0-B5EC-36650DCD7A8B}|Herencia\\Herencia.csproj|c:\\users\\kmoquete\\repos\\csharp-exerciseya\\herencia\\herencia\\herencia\\publicacionimagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D73BDBD-AEC1-4EF0-B5EC-36650DCD7A8B}|Herencia\\Herencia.csproj|solutionrelative:herencia\\publicacionimagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D73BDBD-AEC1-4EF0-B5EC-36650DCD7A8B}|Herencia\\Herencia.csproj|c:\\users\\kmoquete\\repos\\csharp-exerciseya\\herencia\\herencia\\herencia\\publicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D73BDBD-AEC1-4EF0-B5EC-36650DCD7A8B}|Herencia\\Herencia.csproj|solutionrelative:herencia\\publicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D73BDBD-AEC1-4EF0-B5EC-36650DCD7A8B}|Herencia\\Herencia.csproj|c:\\users\\kmoquete\\repos\\csharp-exerciseya\\herencia\\herencia\\herencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D73BDBD-AEC1-4EF0-B5EC-36650DCD7A8B}|Herencia\\Herencia.csproj|solutionrelative:herencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PublicacionImagen.cs",
+              "DocumentMoniker": "C:\\Users\\kmoquete\\repos\\Csharp-exerciseya\\Herencia\\Herencia\\Herencia\\PublicacionImagen.cs",
+              "RelativeDocumentMoniker": "Herencia\\PublicacionImagen.cs",
+              "ToolTip": "C:\\Users\\kmoquete\\repos\\Csharp-exerciseya\\Herencia\\Herencia\\Herencia\\PublicacionImagen.cs",
+              "RelativeToolTip": "Herencia\\PublicacionImagen.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T01:29:17.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Publicacion.cs",
+              "DocumentMoniker": "C:\\Users\\kmoquete\\repos\\Csharp-exerciseya\\Herencia\\Herencia\\Herencia\\Publicacion.cs",
+              "RelativeDocumentMoniker": "Herencia\\Publicacion.cs",
+              "ToolTip": "C:\\Users\\kmoquete\\repos\\Csharp-exerciseya\\Herencia\\Herencia\\Herencia\\Publicacion.cs",
+              "RelativeToolTip": "Herencia\\Publicacion.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T20:46:43.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kmoquete\\repos\\Csharp-exerciseya\\Herencia\\Herencia\\Herencia\\Program.cs",
+              "RelativeDocumentMoniker": "Herencia\\Program.cs",
+              "ToolTip": "C:\\Users\\kmoquete\\repos\\Csharp-exerciseya\\Herencia\\Herencia\\Herencia\\Program.cs",
+              "RelativeToolTip": "Herencia\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T20:45:04.564Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
