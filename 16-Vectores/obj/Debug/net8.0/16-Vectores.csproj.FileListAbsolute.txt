@@ -1,0 +1,15 @@
+C:\Users\kmoquete\repos\Csharp-exerciseya\16-Vectores\bin\Debug\net8.0\16-Vectores.exe
+C:\Users\kmoquete\repos\Csharp-exerciseya\16-Vectores\bin\Debug\net8.0\16-Vectores.deps.json
+C:\Users\kmoquete\repos\Csharp-exerciseya\16-Vectores\bin\Debug\net8.0\16-Vectores.runtimeconfig.json
+C:\Users\kmoquete\repos\Csharp-exerciseya\16-Vectores\bin\Debug\net8.0\16-Vectores.dll
+C:\Users\kmoquete\repos\Csharp-exerciseya\16-Vectores\bin\Debug\net8.0\16-Vectores.pdb
+C:\Users\kmoquete\repos\Csharp-exerciseya\16-Vectores\obj\Debug\net8.0\16-Vectores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmoquete\repos\Csharp-exerciseya\16-Vectores\obj\Debug\net8.0\16-Vectores.AssemblyInfoInputs.cache
+C:\Users\kmoquete\repos\Csharp-exerciseya\16-Vectores\obj\Debug\net8.0\16-Vectores.AssemblyInfo.cs
+C:\Users\kmoquete\repos\Csharp-exerciseya\16-Vectores\obj\Debug\net8.0\16-Vectores.csproj.CoreCompileInputs.cache
+C:\Users\kmoquete\repos\Csharp-exerciseya\16-Vectores\obj\Debug\net8.0\16-Vectores.sourcelink.json
+C:\Users\kmoquete\repos\Csharp-exerciseya\16-Vectores\obj\Debug\net8.0\16-Vectores.dll
+C:\Users\kmoquete\repos\Csharp-exerciseya\16-Vectores\obj\Debug\net8.0\refint\16-Vectores.dll
+C:\Users\kmoquete\repos\Csharp-exerciseya\16-Vectores\obj\Debug\net8.0\16-Vectores.pdb
+C:\Users\kmoquete\repos\Csharp-exerciseya\16-Vectores\obj\Debug\net8.0\16-Vectores.genruntimeconfig.cache
+C:\Users\kmoquete\repos\Csharp-exerciseya\16-Vectores\obj\Debug\net8.0\ref\16-Vectores.dll
