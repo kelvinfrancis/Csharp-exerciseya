@@ -34,13 +34,13 @@ namespace Herencia
             this.EsPublico = esPublico;
         }
 
-        // Metodo para crear ID
+        // Método para crear ID
         protected int CrearID()
         {
             return ++publicacionID;
         }
 
-        // Metodo para editar Publicacion
+        // Método para editar Publicacion
         public void Editar(string titulo, bool esPublico)
         {
             this.Titulo = titulo;
