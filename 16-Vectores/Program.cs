@@ -37,13 +37,46 @@ class Program
         }
     }
 
+    class ProblemaPropuesto()
+    {
+        /*
+         * Desarrollar un programa que permita ingresar un vector de n elementos, ingresar n por teclado. Luego imprimir la suma de todos sus elementos
+         */
+
+        public int[] elementos;
+
+        public void CargarElementos()
+        {
+            Console.WriteLine("Ingrese la cantidad de elementos: ");
+            string cantidad = Console.ReadLine();
+            int cant = int.Parse(cantidad);
+            elementos = new int[cant];
+            
+            for (int i = 0; i < elementos.Length; i++)
+            {
+                Console.WriteLine("Ingrese los valores");
+                string elemento;
+                elemento = Console.ReadLine();
+                elementos[i] = int.Parse(elemento);
+            }
+        }
+
+        public void ImprimirSuma()
+        {
+            Console.WriteLine("La suma total de los elementos del vector es: {0}", elementos.Sum());
+        }
+        
+    }
     private static void Main(string[] args)
     {
-        Problema_1 pv_1 = new Problema_1();
-        pv_1.Cargar();
-        pv_1.Imprimir();
-
-
+        //Problema_1 pv_1 = new Problema_1();
+        //pv_1.Cargar();
+        //pv_1.Imprimir();
+        
+        ProblemaPropuesto pp_1 = new ProblemaPropuesto();
+        pp_1.CargarElementos();
+        pp_1.ImprimirSuma();
+        
     }
 
 }
