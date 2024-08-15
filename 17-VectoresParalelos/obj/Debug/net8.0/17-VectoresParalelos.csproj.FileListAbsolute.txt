@@ -1,0 +1,15 @@
+C:\Users\kmoquete\repos\Csharp-exerciseya\17-VectoresParalelos\bin\Debug\net8.0\17-VectoresParalelos.exe
+C:\Users\kmoquete\repos\Csharp-exerciseya\17-VectoresParalelos\bin\Debug\net8.0\17-VectoresParalelos.deps.json
+C:\Users\kmoquete\repos\Csharp-exerciseya\17-VectoresParalelos\bin\Debug\net8.0\17-VectoresParalelos.runtimeconfig.json
+C:\Users\kmoquete\repos\Csharp-exerciseya\17-VectoresParalelos\bin\Debug\net8.0\17-VectoresParalelos.dll
+C:\Users\kmoquete\repos\Csharp-exerciseya\17-VectoresParalelos\bin\Debug\net8.0\17-VectoresParalelos.pdb
+C:\Users\kmoquete\repos\Csharp-exerciseya\17-VectoresParalelos\obj\Debug\net8.0\17-VectoresParalelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmoquete\repos\Csharp-exerciseya\17-VectoresParalelos\obj\Debug\net8.0\17-VectoresParalelos.AssemblyInfoInputs.cache
+C:\Users\kmoquete\repos\Csharp-exerciseya\17-VectoresParalelos\obj\Debug\net8.0\17-VectoresParalelos.AssemblyInfo.cs
+C:\Users\kmoquete\repos\Csharp-exerciseya\17-VectoresParalelos\obj\Debug\net8.0\17-VectoresParalelos.csproj.CoreCompileInputs.cache
+C:\Users\kmoquete\repos\Csharp-exerciseya\17-VectoresParalelos\obj\Debug\net8.0\17-VectoresParalelos.sourcelink.json
+C:\Users\kmoquete\repos\Csharp-exerciseya\17-VectoresParalelos\obj\Debug\net8.0\17-VectoresParalelos.dll
+C:\Users\kmoquete\repos\Csharp-exerciseya\17-VectoresParalelos\obj\Debug\net8.0\refint\17-VectoresParalelos.dll
+C:\Users\kmoquete\repos\Csharp-exerciseya\17-VectoresParalelos\obj\Debug\net8.0\17-VectoresParalelos.pdb
+C:\Users\kmoquete\repos\Csharp-exerciseya\17-VectoresParalelos\obj\Debug\net8.0\17-VectoresParalelos.genruntimeconfig.cache
+C:\Users\kmoquete\repos\Csharp-exerciseya\17-VectoresParalelos\obj\Debug\net8.0\ref\17-VectoresParalelos.dll
