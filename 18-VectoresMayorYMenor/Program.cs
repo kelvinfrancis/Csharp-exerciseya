@@ -47,11 +47,66 @@
                 Console.ReadKey();
             }
         }
+
+        class Problema2()
+        {
+            int[] elementos;
+            private int valorMenor;
+
+            public void Cargar()
+            {
+                /*Cargar elementos del listado*/
+                Console.Write("Ingrese la cantidad de elementos del listado: ");
+                string cantidad = Console.ReadLine();
+                int cant = int.Parse(cantidad);
+                elementos = new int[cant];
+
+                for (int i = 0; i < elementos.Length; i++)
+                {
+                    Console.Write("Ingrese un elemento: ");
+                    string elemento = Console.ReadLine();
+                    elementos[i] = int.Parse(elemento);
+                }
+            }
+
+            public void ImprimirValorMenor()
+            {
+                valorMenor = elementos[0];
+                /* Imprime el valor menor del listado, y valida si esta repetido */
+                for (int i = 1; i < elementos.Length - 1; i++)
+                {
+                    if (elementos[i] < valorMenor)
+                        valorMenor = elementos[i];
+                }
+                
+                Console.WriteLine("El menor valor es {0}", valorMenor);
+            }
+
+            public void RepiteMenor()
+            {
+                int repetido = 0;
+                for (int i = 0; i < elementos.Length; i++)
+                {
+                    if (valorMenor == elementos[i])
+                        repetido += 1;
+                }
+
+                if (repetido > 1)
+                    Console.WriteLine("El valor esta repetido");
+                else
+                    Console.WriteLine("El valor NO esta repetido");
+            }
+        }
         static void Main(string[] args)
         {
-            Problema1 pb1 = new Problema1();
-            pb1.Cargar();
-            pb1.ImprimirSueldoMayor();
+            // Problema1 pb1 = new Problema1();
+            // pb1.Cargar();
+            // pb1.ImprimirSueldoMayor();
+
+            Problema2 pro2 = new Problema2();
+            pro2.Cargar();
+            pro2.ImprimirValorMenor();
+            pro2.RepiteMenor();
         }
     }
 }

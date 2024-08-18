@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kmoquete\\repos\\Csharp-exerciseya\\18-VectoresMayorYMenor\\18-VectoresMayorYMenor.csproj": {}
+    "/Users/kelvinmoquetepena/repos/Csharp-exerciseya/18-VectoresMayorYMenor/18-VectoresMayorYMenor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kmoquete\\repos\\Csharp-exerciseya\\18-VectoresMayorYMenor\\18-VectoresMayorYMenor.csproj": {
+    "/Users/kelvinmoquetepena/repos/Csharp-exerciseya/18-VectoresMayorYMenor/18-VectoresMayorYMenor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kmoquete\\repos\\Csharp-exerciseya\\18-VectoresMayorYMenor\\18-VectoresMayorYMenor.csproj",
+        "projectUniqueName": "/Users/kelvinmoquetepena/repos/Csharp-exerciseya/18-VectoresMayorYMenor/18-VectoresMayorYMenor.csproj",
         "projectName": "18-VectoresMayorYMenor",
-        "projectPath": "C:\\Users\\kmoquete\\repos\\Csharp-exerciseya\\18-VectoresMayorYMenor\\18-VectoresMayorYMenor.csproj",
-        "packagesPath": "C:\\Users\\kmoquete\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kmoquete\\repos\\Csharp-exerciseya\\18-VectoresMayorYMenor\\obj\\",
+        "projectPath": "/Users/kelvinmoquetepena/repos/Csharp-exerciseya/18-VectoresMayorYMenor/18-VectoresMayorYMenor.csproj",
+        "packagesPath": "/Users/kelvinmoquetepena/.nuget/packages/",
+        "outputPath": "/Users/kelvinmoquetepena/repos/Csharp-exerciseya/18-VectoresMayorYMenor/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\kmoquete\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/kelvinmoquetepena/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,11 +32,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -64,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
