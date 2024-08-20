@@ -1,4 +1,6 @@
-﻿namespace _19_VectoresOrdenados;
+﻿using System.Threading.Channels;
+
+namespace _19_VectoresOrdenados;
 
 class Program
 {
@@ -50,10 +52,59 @@ class Program
             }
         }
     }
+
+    public class Problema2()
+    {
+        /*
+         * Definir un vector donde almacenar los nombres de 5 paises. Confeccionar el algoritmo de ordenamiento alfabético.
+         */
+        string[] paises = new string[5];
+        private string aux;
+        public void CargarPaises()
+        {
+            Console.WriteLine("Ingrese 5 nombres de paises: ");
+            for (int i = 0; i < paises.Length; i++)
+            {
+                Console.Write("Nombre del pais: ");
+                string pais = Console.ReadLine();
+                paises[i] = pais;
+            }
+        }
+
+        public void OrdenarPaises()
+        {
+            for (int i = 0; i < paises.Length; i++)
+            {
+                for (int j = 0; j < paises.Length - 1; j++)
+                {
+                    if (paises[j].CompareTo(paises[j + 1]) > 0)
+                    {
+                        aux = paises[j];
+                        paises[j] = paises[j + 1];
+                        paises[j + 1] = aux;
+                    }
+                }
+            }
+        }
+
+        public void Imprimir()
+        {
+            Console.WriteLine("Lista ordenada:");
+            for (int i = 0; i < paises.Length; i++)
+            {
+                Console.WriteLine("- {0}",paises[i]);
+            }
+        }
+    }
     static void Main(string[] args)
     {
-        Problema1 pro1 = new Problema1();
-        pro1.Cargar();
-        pro1.OrdenarMenorMayor();
+        // Problema1 pro1 = new Problema1();
+        // pro1.Cargar();
+        // pro1.OrdenarMenorMayor();
+
+        Problema2 pro2 = new Problema2();
+        pro2.CargarPaises();
+        pro2.OrdenarPaises();
+        pro2.Imprimir();
     }
 }
