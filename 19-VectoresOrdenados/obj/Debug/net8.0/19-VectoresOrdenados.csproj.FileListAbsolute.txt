@@ -1,0 +1,15 @@
+/Users/kelvinmoquetepena/repos/Csharp-exerciseya/19-VectoresOrdenados/bin/Debug/net8.0/19-VectoresOrdenados
+/Users/kelvinmoquetepena/repos/Csharp-exerciseya/19-VectoresOrdenados/bin/Debug/net8.0/19-VectoresOrdenados.deps.json
+/Users/kelvinmoquetepena/repos/Csharp-exerciseya/19-VectoresOrdenados/bin/Debug/net8.0/19-VectoresOrdenados.runtimeconfig.json
+/Users/kelvinmoquetepena/repos/Csharp-exerciseya/19-VectoresOrdenados/bin/Debug/net8.0/19-VectoresOrdenados.dll
+/Users/kelvinmoquetepena/repos/Csharp-exerciseya/19-VectoresOrdenados/bin/Debug/net8.0/19-VectoresOrdenados.pdb
+/Users/kelvinmoquetepena/repos/Csharp-exerciseya/19-VectoresOrdenados/obj/Debug/net8.0/19-VectoresOrdenados.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kelvinmoquetepena/repos/Csharp-exerciseya/19-VectoresOrdenados/obj/Debug/net8.0/19-VectoresOrdenados.AssemblyInfoInputs.cache
+/Users/kelvinmoquetepena/repos/Csharp-exerciseya/19-VectoresOrdenados/obj/Debug/net8.0/19-VectoresOrdenados.AssemblyInfo.cs
+/Users/kelvinmoquetepena/repos/Csharp-exerciseya/19-VectoresOrdenados/obj/Debug/net8.0/19-VectoresOrdenados.csproj.CoreCompileInputs.cache
+/Users/kelvinmoquetepena/repos/Csharp-exerciseya/19-VectoresOrdenados/obj/Debug/net8.0/19-VectoresOrdenados.sourcelink.json
+/Users/kelvinmoquetepena/repos/Csharp-exerciseya/19-VectoresOrdenados/obj/Debug/net8.0/19-VectoresOrdenados.dll
+/Users/kelvinmoquetepena/repos/Csharp-exerciseya/19-VectoresOrdenados/obj/Debug/net8.0/refint/19-VectoresOrdenados.dll
+/Users/kelvinmoquetepena/repos/Csharp-exerciseya/19-VectoresOrdenados/obj/Debug/net8.0/19-VectoresOrdenados.pdb
+/Users/kelvinmoquetepena/repos/Csharp-exerciseya/19-VectoresOrdenados/obj/Debug/net8.0/19-VectoresOrdenados.genruntimeconfig.cache
+/Users/kelvinmoquetepena/repos/Csharp-exerciseya/19-VectoresOrdenados/obj/Debug/net8.0/ref/19-VectoresOrdenados.dll
