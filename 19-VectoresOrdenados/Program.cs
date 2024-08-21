@@ -96,15 +96,70 @@ class Program
             }
         }
     }
+
+    public class ProblemaPropuesto()
+    {
+        private int[] elementos;
+        //Problema propuesto: Cargar un vector de n elementos de tipo entero. Ordenar posteriormente el vector.
+
+        public void Cargar()
+        {
+            Console.WriteLine("Ingrese la cantidad de elementos del vector: ");
+            string cantidad = Console.ReadLine();
+            int cant = Int32.Parse(cantidad);
+            elementos = new int[cant];
+
+            for(int i=0; i < elementos.Length; i++)
+            {
+                Console.WriteLine("Ingrese los {0} valores: ", elementos.Length)
+                Console.Write("Ingrese el valor: ");
+                string linea = Console.ReadLine();
+                int elemento = Int32.Parse(linea);
+                elementos[i] = elemento;
+            }
+        }
+
+        public void Ordenar()
+        {
+            for(int i = 0; i < elementos.Length; i++)
+            {
+                for(int j = 0 j < elementos.Length -1; j++)
+                {
+                    if(elementos[j] > elementos[j +  1])
+                    {
+                        int aux;
+                        aux = elementos[j];
+                        elementos[j] = elementos[j + 1]
+                        elementos[j + 1] = aux;
+                    }
+                }
+            }
+        }
+
+        public void Imprimir()
+        {
+            Console.WriteLine("Lista ordenada.")
+            for(int i = 0; i < elementos.Length; i++)
+            {
+                Console.WriteLine(elementos[i]);
+            }
+        }
+    }
+    
     static void Main(string[] args)
     {
         // Problema1 pro1 = new Problema1();
         // pro1.Cargar();
         // pro1.OrdenarMenorMayor();
 
-        Problema2 pro2 = new Problema2();
-        pro2.CargarPaises();
-        pro2.OrdenarPaises();
-        pro2.Imprimir();
+        // Problema2 pro2 = new Problema2();
+        // pro2.CargarPaises();
+        // pro2.OrdenarPaises();
+        // pro2.Imprimir();
+
+        ProblemaPropuesto pro3 = new ProblemaPropuesto();
+        pro3.Cargar();
+        pro3.Ordenar()
+        pro3.Imprimir();
     }
 }
