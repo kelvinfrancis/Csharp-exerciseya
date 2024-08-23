@@ -1,0 +1,15 @@
+/Users/kelvinmoquetepena/repos/Csharp-exerciseya/20VecParalelosOrdenamiento/bin/Debug/net8.0/20VecParalelosOrdenamiento
+/Users/kelvinmoquetepena/repos/Csharp-exerciseya/20VecParalelosOrdenamiento/bin/Debug/net8.0/20VecParalelosOrdenamiento.deps.json
+/Users/kelvinmoquetepena/repos/Csharp-exerciseya/20VecParalelosOrdenamiento/bin/Debug/net8.0/20VecParalelosOrdenamiento.runtimeconfig.json
+/Users/kelvinmoquetepena/repos/Csharp-exerciseya/20VecParalelosOrdenamiento/bin/Debug/net8.0/20VecParalelosOrdenamiento.dll
+/Users/kelvinmoquetepena/repos/Csharp-exerciseya/20VecParalelosOrdenamiento/bin/Debug/net8.0/20VecParalelosOrdenamiento.pdb
+/Users/kelvinmoquetepena/repos/Csharp-exerciseya/20VecParalelosOrdenamiento/obj/Debug/net8.0/20VecParalelosOrdenamiento.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kelvinmoquetepena/repos/Csharp-exerciseya/20VecParalelosOrdenamiento/obj/Debug/net8.0/20VecParalelosOrdenamiento.AssemblyInfoInputs.cache
+/Users/kelvinmoquetepena/repos/Csharp-exerciseya/20VecParalelosOrdenamiento/obj/Debug/net8.0/20VecParalelosOrdenamiento.AssemblyInfo.cs
+/Users/kelvinmoquetepena/repos/Csharp-exerciseya/20VecParalelosOrdenamiento/obj/Debug/net8.0/20VecParalelosOrdenamiento.csproj.CoreCompileInputs.cache
+/Users/kelvinmoquetepena/repos/Csharp-exerciseya/20VecParalelosOrdenamiento/obj/Debug/net8.0/20VecParalelosOrdenamiento.sourcelink.json
+/Users/kelvinmoquetepena/repos/Csharp-exerciseya/20VecParalelosOrdenamiento/obj/Debug/net8.0/20VecParalelosOrdenamiento.dll
+/Users/kelvinmoquetepena/repos/Csharp-exerciseya/20VecParalelosOrdenamiento/obj/Debug/net8.0/refint/20VecParalelosOrdenamiento.dll
+/Users/kelvinmoquetepena/repos/Csharp-exerciseya/20VecParalelosOrdenamiento/obj/Debug/net8.0/20VecParalelosOrdenamiento.pdb
+/Users/kelvinmoquetepena/repos/Csharp-exerciseya/20VecParalelosOrdenamiento/obj/Debug/net8.0/20VecParalelosOrdenamiento.genruntimeconfig.cache
+/Users/kelvinmoquetepena/repos/Csharp-exerciseya/20VecParalelosOrdenamiento/obj/Debug/net8.0/ref/20VecParalelosOrdenamiento.dll
