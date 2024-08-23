@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("19-VectoresOrdenados")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4506519613146b274e15669f8f58f44125fd3f91")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6249febb50251f48b9dd99e5a9323dda6e5db6ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("19-VectoresOrdenados")]
 [assembly: System.Reflection.AssemblyTitleAttribute("19-VectoresOrdenados")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
