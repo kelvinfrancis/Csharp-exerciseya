@@ -1,0 +1,15 @@
+/Users/kelvinmoquetepena/repos/Csharp-exerciseya/21EstructuraDatosTipoMatriz/bin/Debug/net8.0/21EstructuraDatosTipoMatriz
+/Users/kelvinmoquetepena/repos/Csharp-exerciseya/21EstructuraDatosTipoMatriz/bin/Debug/net8.0/21EstructuraDatosTipoMatriz.deps.json
+/Users/kelvinmoquetepena/repos/Csharp-exerciseya/21EstructuraDatosTipoMatriz/bin/Debug/net8.0/21EstructuraDatosTipoMatriz.runtimeconfig.json
+/Users/kelvinmoquetepena/repos/Csharp-exerciseya/21EstructuraDatosTipoMatriz/bin/Debug/net8.0/21EstructuraDatosTipoMatriz.dll
+/Users/kelvinmoquetepena/repos/Csharp-exerciseya/21EstructuraDatosTipoMatriz/bin/Debug/net8.0/21EstructuraDatosTipoMatriz.pdb
+/Users/kelvinmoquetepena/repos/Csharp-exerciseya/21EstructuraDatosTipoMatriz/obj/Debug/net8.0/21EstructuraDatosTipoMatriz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kelvinmoquetepena/repos/Csharp-exerciseya/21EstructuraDatosTipoMatriz/obj/Debug/net8.0/21EstructuraDatosTipoMatriz.AssemblyInfoInputs.cache
+/Users/kelvinmoquetepena/repos/Csharp-exerciseya/21EstructuraDatosTipoMatriz/obj/Debug/net8.0/21EstructuraDatosTipoMatriz.AssemblyInfo.cs
+/Users/kelvinmoquetepena/repos/Csharp-exerciseya/21EstructuraDatosTipoMatriz/obj/Debug/net8.0/21EstructuraDatosTipoMatriz.csproj.CoreCompileInputs.cache
+/Users/kelvinmoquetepena/repos/Csharp-exerciseya/21EstructuraDatosTipoMatriz/obj/Debug/net8.0/21EstructuraDatosTipoMatriz.sourcelink.json
+/Users/kelvinmoquetepena/repos/Csharp-exerciseya/21EstructuraDatosTipoMatriz/obj/Debug/net8.0/21EstructuraDatosTipoMatriz.dll
+/Users/kelvinmoquetepena/repos/Csharp-exerciseya/21EstructuraDatosTipoMatriz/obj/Debug/net8.0/refint/21EstructuraDatosTipoMatriz.dll
+/Users/kelvinmoquetepena/repos/Csharp-exerciseya/21EstructuraDatosTipoMatriz/obj/Debug/net8.0/21EstructuraDatosTipoMatriz.pdb
+/Users/kelvinmoquetepena/repos/Csharp-exerciseya/21EstructuraDatosTipoMatriz/obj/Debug/net8.0/21EstructuraDatosTipoMatriz.genruntimeconfig.cache
+/Users/kelvinmoquetepena/repos/Csharp-exerciseya/21EstructuraDatosTipoMatriz/obj/Debug/net8.0/ref/21EstructuraDatosTipoMatriz.dll
