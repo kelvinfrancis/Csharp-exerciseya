@@ -1,0 +1,15 @@
+/Users/kelvinmoquetepena/repos/Csharp-exerciseya/22MatricesCantFilasColumnas/bin/Debug/net8.0/22MatricesCantFilasColumnas
+/Users/kelvinmoquetepena/repos/Csharp-exerciseya/22MatricesCantFilasColumnas/bin/Debug/net8.0/22MatricesCantFilasColumnas.deps.json
+/Users/kelvinmoquetepena/repos/Csharp-exerciseya/22MatricesCantFilasColumnas/bin/Debug/net8.0/22MatricesCantFilasColumnas.runtimeconfig.json
+/Users/kelvinmoquetepena/repos/Csharp-exerciseya/22MatricesCantFilasColumnas/bin/Debug/net8.0/22MatricesCantFilasColumnas.dll
+/Users/kelvinmoquetepena/repos/Csharp-exerciseya/22MatricesCantFilasColumnas/bin/Debug/net8.0/22MatricesCantFilasColumnas.pdb
+/Users/kelvinmoquetepena/repos/Csharp-exerciseya/22MatricesCantFilasColumnas/obj/Debug/net8.0/22MatricesCantFilasColumnas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kelvinmoquetepena/repos/Csharp-exerciseya/22MatricesCantFilasColumnas/obj/Debug/net8.0/22MatricesCantFilasColumnas.AssemblyInfoInputs.cache
+/Users/kelvinmoquetepena/repos/Csharp-exerciseya/22MatricesCantFilasColumnas/obj/Debug/net8.0/22MatricesCantFilasColumnas.AssemblyInfo.cs
+/Users/kelvinmoquetepena/repos/Csharp-exerciseya/22MatricesCantFilasColumnas/obj/Debug/net8.0/22MatricesCantFilasColumnas.csproj.CoreCompileInputs.cache
+/Users/kelvinmoquetepena/repos/Csharp-exerciseya/22MatricesCantFilasColumnas/obj/Debug/net8.0/22MatricesCantFilasColumnas.sourcelink.json
+/Users/kelvinmoquetepena/repos/Csharp-exerciseya/22MatricesCantFilasColumnas/obj/Debug/net8.0/22MatricesCantFilasColumnas.dll
+/Users/kelvinmoquetepena/repos/Csharp-exerciseya/22MatricesCantFilasColumnas/obj/Debug/net8.0/refint/22MatricesCantFilasColumnas.dll
+/Users/kelvinmoquetepena/repos/Csharp-exerciseya/22MatricesCantFilasColumnas/obj/Debug/net8.0/22MatricesCantFilasColumnas.pdb
+/Users/kelvinmoquetepena/repos/Csharp-exerciseya/22MatricesCantFilasColumnas/obj/Debug/net8.0/22MatricesCantFilasColumnas.genruntimeconfig.cache
+/Users/kelvinmoquetepena/repos/Csharp-exerciseya/22MatricesCantFilasColumnas/obj/Debug/net8.0/ref/22MatricesCantFilasColumnas.dll

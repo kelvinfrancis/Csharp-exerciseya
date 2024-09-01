@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22MatricesCantFilasColumnas", "22MatricesCantFilasColumnas.csproj", "{D2D9D0F8-1A8F-4A36-8187-E1E4A75DB819}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2D9D0F8-1A8F-4A36-8187-E1E4A75DB819}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2D9D0F8-1A8F-4A36-8187-E1E4A75DB819}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2D9D0F8-1A8F-4A36-8187-E1E4A75DB819}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2D9D0F8-1A8F-4A36-8187-E1E4A75DB819}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
